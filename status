@@ -1,0 +1,29 @@
+[33mcommit 6d9feb65072ef9372e09b6787abdbe3d0859a5bf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Francisco Casemiro Lira <franciscoclira@hotmail.com>
+Date:   Thu May 8 00:09:05 2025 -0300
+
+    11-Criando componentes através da CLI
+    
+        Criar novo componente no Terminal GitBash do VSCode
+              Samsung@LAPTOP-9P7FQEU6 MINGW64 /c/DEV06-Angular/projetos/conceitos-basicos (main)
+              $ ng generate component minhapagina     <===== digitar assim, sempre ira criar na pasta src/app
+              CREATE src/app/minhapagina/minhapagina.component.html (27 bytes)
+              CREATE src/app/minhapagina/minhapagina.component.spec.ts (650 bytes)
+              CREATE src/app/minhapagina/minhapagina.component.ts (246 bytes)
+              CREATE src/app/minhapagina/minhapagina.component.scss (0 bytes)
+              Samsung@LAPTOP-9P7FQEU6 MINGW64 /c/DEV06-Angular/projetos/conceitos-basicos (main)
+              $
+
+[33mcommit 09368543e5d3c92cc9cd02db6a27db58c42cffcc[m
+Author: Francisco Casemiro Lira <franciscoclira@hotmail.com>
+Date:   Tue May 6 21:00:14 2025 -0300
+
+    app\app.component.html basico
+    
+    src\app\app.component.html basico
+
+[33mcommit 03d5e95b4c3c6abcf2b6b4383cd3f7e7af1c5149[m
+Author: Francisco Casemiro Lira <franciscoclira@hotmail.com>
+Date:   Tue May 6 19:51:15 2025 -0300
+
+    initial commit
